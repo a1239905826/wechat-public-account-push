@@ -19,7 +19,7 @@ export const config = {
       {"name": "宝子", "year": "1998", "date": "06-28", "type": 'r'},
     ],
     // 在一起的日子，格式同上
-    loveDate: "2021-11-04",
+    loveDate: "2022-08-28",
     }
 
 // {{date.DATA}}  
