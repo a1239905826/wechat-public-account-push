@@ -7,7 +7,7 @@ export const config = {
     // 模板消息id
     templateId: "OH082W5ALKzfKxLQ9AaoCr_6-VE65jRKx1gTKrhtCSk",
     // 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "o0txX6y3ROAuvpXGqztjLH_0qrZg"]
-    user: ["o0txX64-BjXf-fVIXzL1Iz1I94rw"],
+    user: ["o0txX64-BjXf-fVIXzL1Iz1I94rw", "o0txX6y3ROAuvpXGqztjLH_0qrZg"],
      
     // 信息配置
     // 所在省份
@@ -19,7 +19,7 @@ export const config = {
       {"name": "宝子", "year": "1998", "date": "06-28", "type": 'r'},
     ],
     // 在一起的日子，格式同上
-    loveDate: "2022-08-28",
+    loveDate: "2021-11-04",
     }
 
 // {{date.DATA}}  
